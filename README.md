@@ -2,8 +2,7 @@
 aka @Funghi88
 
 **AI-native Product Architect**  
-Frontier Web3 Research Compression · Protocol Tools · Design-Driven Systems
-I explore ways to compress complexity in frontier ecosystems using AI and design-first systems.
+Frontier Web3 Research Compression · Protocol Tools · Design-Driven Systems · explore ways to compress complexity in frontier ecosystems using AI and design-first systems
 
 **Core domains:**
 - Web3 Protocol Research  
