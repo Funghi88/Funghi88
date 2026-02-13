@@ -1,16 +1,53 @@
-## Hi there 👋
+# Annabelle Lee  
+aka @Funghi88
 
-<!--
-**Funghi88/Funghi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-native Product Architect**  
+Frontier Web3 Research Compression · Protocol Tools · Design-Driven Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 What I’m Building
+
+I explore ways to compress complexity in frontier ecosystems using AI and design-first systems.
+
+**Core domains:**
+- Web3 Protocol Research  
+- AI-Assisted Research Compression  
+- Tooling & Open Source Systems  
+- Design-centric Analytical Frameworks  
+
+---
+
+## 🔭 Current Phase (2026)
+
+**Phase I — Web3 Infrastructure Intelligence**
+
+- Signal extraction from governance, forums, and whitepapers  
+- Structured intelligence frameworks  
+- Research tooling and CLI components  
+- Design-forward analytical outputs
+
+---
+
+## 💡 What You Can Get
+
+If you are a builder, contributor, or ecosystem participant:
+
+- Structured research briefs  
+- Protocol insight maps  
+- Tooling to compress complexity  
+- Intelligence surfaces for decision → action
+
+---
+
+## 📂 Pinned Projects (Click to Explore)
+
+*(See pinned repos below — each with context and purpose)*  
+
+---
+
+## 🔗 Connect
+
+X: https://x.com/miccakitt  
+Telegram: https://t.me/miccakitt  
+Substack (coming soon)
